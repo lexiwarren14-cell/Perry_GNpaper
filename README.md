@@ -1,2 +1,10 @@
 # Perry_GNpaper
-Script and files for Genomic Prediction Enables Same-Season Selection for Reduced Glycosidic Nitrile in Eastern U.S. Winter Barley
+All necessary data files for the proposed paper "Genomic Prediction Enables Same-Season Selection for Reduced Glycosidic Nitrile in Eastern U.S. Winter Barley" is in this folder.
+
+Within the folder "scripts" running "runGN.R" will run all four other scripts and produce the figure outputs in the "figures" folder.
+
+This was made under Rstudio version R 4.3.1
+
+Packages needed: asreml, readxl, fieldMapR, rrBLUP, dplyr, ggplot2, and corrplot
+
+All necessary data is uploaded to FigShare (https://doi.org/10.6084/m9.figshare.35031508)
